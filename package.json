@@ -20,6 +20,7 @@
     "express": "^4.13.4",
     "font-awesome": "^4.5.0",
     "gulp": "^3.9.0",
+    "gulp-angular-htmlify": "^2.3.0",
     "gulp-angular-templatecache": "^1.8.0",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-babel": "^6.1.2",
@@ -40,11 +41,14 @@
     "gulp-uglify": "^1.5.1",
     "gulp-watch": "^4.3.5",
     "htmlify": "^0.1.0",
+    "jmespath": "^0.15.0",
     "jshint": "^2.9.1",
     "mongoose": "^4.4.1",
     "morgan": "^1.6.1",
     "node-env-file": "^0.1.8",
-    "gulp-angular-htmlify": "^2.3.0"
+    "uuid": "^3.0.1",
+    "xml2js": "^0.4.17",
+    "xmlbuilder": "^8.2.2"
   },
   "devDependencies": {
     "gulp-awspublish": "^3.0.1"
